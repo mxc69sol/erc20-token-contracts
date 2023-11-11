@@ -1,6 +1,6 @@
 /*
 
-Contract by mxc69sol (https://github.com/mxc69sol)
+Tax Farm Contract Exploit by mxc69sol (https://github.com/mxc69sol)
 
 Features:
 - Normal Tax Farm Contract
